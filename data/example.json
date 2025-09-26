@@ -1,0 +1,28 @@
+[
+    {
+    "messages": [
+      {
+        "content": "\nYou are an aesthetic expert. What is your overall rating on the aesthetic of this picture <image> ? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality. Your task:\n1. Think through the question, put all your thinking or reasoning process in only one pair <think>...</think> tags.\n2. Then provide the correct rating inside only one pair of <answer>...</answer> tags.\n3. No any other information or text outside of these tags. \n\nE.g. your response should be:\n<think>...</think><answer>...</answer>\n\n",
+        "role": "user"
+      },
+      {
+        "content": "0.25",
+        "role": "assistant"
+      }
+    ],
+    "images": "image_path_1"
+  },
+  {
+    "messages": [
+      {
+        "content": "\nYou are an aesthetic expert. What is your overall rating on the aesthetic of this picture <image> ? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality. Your task:\n1. Think through the question, put all your thinking or reasoning process in only one pair <think>...</think> tags.\n2. Then provide the correct rating inside only one pair of <answer>...</answer> tags.\n3. No any other information or text outside of these tags. \n\nE.g. your response should be:\n<think>...</think><answer>...</answer>\n\n",
+        "role": "user"
+      },
+      {
+        "content": "0.80",
+        "role": "assistant"
+      }
+    ],
+    "images": "image_path_2"
+  }
+]
