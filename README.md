@@ -6,7 +6,7 @@
 
 # 📰News
 
-# ⌨️Training
+# 🖥️Training
 ## Preparation
 1. First download the IAA datasets and place them all in a single folder.
 2. Construct your image-score dataset in the following format:
@@ -86,8 +86,8 @@ python scripts/vllm_infer.py \
 
 # 🙏Acknowledgement
 Special thanks to the following repositories for their invaluable code and datasets
-- [VLM-R1](https://github.com/om-ai-lab/VLM-R1).
-- [Visualquality-R1]https://github.com/tianhewu/visualquality-r1
+- [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
+- [Visualquality-R1](https://github.com/tianhewu/visualquality-r1)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [open-r1](https://github.com/huggingface/open-r1)
 
