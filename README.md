@@ -5,7 +5,7 @@
 </div>
 
 # 📰News
-
+🚩 2025-9-29: Initial upload to arXiv [PDF](https://arxiv.org/abs/2509.21871).
 # 🖥️Training
 ## Preparation
 1. First download the IAA datasets and place them all in a single folder.
@@ -92,3 +92,15 @@ Special thanks to the following repositories for their invaluable code and datas
 - [open-r1](https://github.com/huggingface/open-r1)
 
 # 📚 Citation
+If you find this repo useful, please consider citing our paper as follows:
+```
+@misc{liu2025unlockingessencebeautyadvanced,
+      title={Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization}, 
+      author={Boyang Liu and Yifan Hu and Senjie Jin and Shihan Dou and Gonglei Shi and Jie Shao and Tao Gui and Xuanjing Huang},
+      year={2025},
+      eprint={2509.21871},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.21871}, 
+}
+```
