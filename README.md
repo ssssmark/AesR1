@@ -1,21 +1,19 @@
 <div align="center">
 
 # Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization
-</div>
 <a href="https://arxiv.org/pdf/2509.21871" target="_blank">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Aes--R1-red?logo=arxiv
-    " height="25" />
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Aes--R1-red?logo=arxiv" height="25" />
 </a>
 <a href="https://huggingface.co/ssssmark/Aes-R1" target="_blank">
-    <img alt="HF Model: Aes-R1" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Aes--R1-ffc107
-    " height="25" />
+    <img alt="HF Model: Aes-R1" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Aes--R1-ffc107" height="25" />
 </a>
 <a href="https://huggingface.co/TianheWu/VisualQuality-R1-7B-preview" target="_blank">
-    <img alt="HF Dataset : Aes-CoT" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Aes--CoT-ffc107
-    " height="25" />
+    <img alt="HF Dataset : Aes-CoT" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Aes--CoT-ffc107" height="25" />
 </a>
+</div>
 
->The novel and effective framework of reinforcement learning for Image Aesthetic Assessment,as well as for general open-ended preference evaluation.
+
+> A novel and effective reinforcement learning framework designed for Image Aesthetic Assessment and general open-ended preference evaluation.
 <div align="center">
 <img src="./assets/aesreward.png" width="900"/>
 </div>
