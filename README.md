@@ -2,7 +2,7 @@
 
 # Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization
 </div>
-<a href="https://arxiv.org/abs/2505.14460" target="_blank">
+<a href="https://arxiv.org/pdf/2509.21871" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Aes--R1-red?logo=arxiv
     " height="25" />
 </a>
