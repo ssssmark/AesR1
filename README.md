@@ -7,7 +7,7 @@
 <a href="https://huggingface.co/ssssmark/Aes-R1" target="_blank">
     <img alt="HF Model: Aes-R1" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Aes--R1-ffc107" height="25" />
 </a>
-<a href="https://huggingface.co/TianheWu/VisualQuality-R1-7B-preview" target="_blank">
+<a href="https://huggingface.co/datasets/ssssmark/AesCoT" target="_blank">
     <img alt="HF Dataset : Aes-CoT" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Aes--CoT-ffc107" height="25" />
 </a>
 </div>
