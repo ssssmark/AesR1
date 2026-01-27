@@ -19,6 +19,7 @@
 </div>
 
 # 📰News
+🚩 2026-1-26: 🎉 Our paper is accepted by the ICLR'26 conference.
 🚩 2025-9-29: Initial upload to arXiv [PDF](https://arxiv.org/abs/2509.21871).
 # 🖥️Training
 ## Preparation
